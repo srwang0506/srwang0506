@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/srwang0506">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=30&pause=1000&color=0969da&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Ferry+Wang+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=30&pause=1000&color=0969da&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Sirui+Wang+%F0%9F%91%8B" alt="Typing SVG" />
 </a>
 
 <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 18px;">
