@@ -10,30 +10,13 @@
 
 <br>
 
-<table align="center" border="0" cellspacing="0" cellpadding="0" width="95%">
-  <tr border="none">
-    <td width="10%" align="center" valign="middle" style="padding: 10px; font-size: 20px;">🔭</td>
-    <td width="20%" align="center" valign="middle" style="padding: 10px;"><b>Current Focus</b></td>
-    <td width="70%" align="center" valign="middle" style="padding: 10px;">Researching <b>Computer Vision</b> & <b>Embodied AI</b></td>
-  </tr>
-  <tr border="none">
-    <td width="10%" align="center" valign="middle" style="padding: 10px; font-size: 20px;">🌱</td>
-    <td width="20%" align="center" valign="middle" style="padding: 10px;"><b>AI Learner</b></td>
-    <td width="70%" align="center" valign="middle" style="padding: 10px;">Humble & curious, continuously absorbing knowledge in the AI landscape.</td>
-  </tr>
-  <tr border="none">
-    <td width="10%" align="center" valign="middle" style="padding: 10px; font-size: 20px;">👯</td>
-    <td width="20%" align="center" valign="middle" style="padding: 10px;"><b>Collaborate</b></td>
-    <td width="70%" align="center" valign="middle" style="padding: 10px;"><b>HOI</b>, <b>3D/4D Vision</b>, and Embodied Agents</td>
-  </tr>
-  <tr border="none">
-    <td width="10%" align="center" valign="middle" style="padding: 10px; font-size: 20px;">🎓</td>
-    <td width="20%" align="center" valign="middle" style="padding: 10px;"><b>Academic Goal</b></td>
-    <td width="70%" align="center" valign="middle" style="padding: 10px;">Pursuing an <b>MS/PhD</b> starting <b>Fall 2027</b></td>
-  </tr>
-</table>
+<p style="font-size: 16px; line-height: 2.2; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
+  🔭 <b>Current Focus</b> &nbsp;&mdash;&nbsp; Researching <b>Computer Vision</b> & <b>Embodied AI</b> <br>
+  🌱 <b>AI Learner</b> &nbsp;&mdash;&nbsp; Humble & curious, continuously absorbing knowledge. <br>
+  👯 <b>Collaborate</b> &nbsp;&mdash;&nbsp; <b>HOI</b>, <b>3D/4D Vision</b>, and Embodied Agents <br>
+  🎓 <b>Academic Goal</b> &nbsp;&mdash;&nbsp; Pursuing an <b>MS/PhD</b> starting <b>Fall 2027</b>
+</p>
 
-<br>
 <br>
 
 <p>
@@ -56,7 +39,7 @@
 
 <br>
 
-<p style="font-family: Georgia, serif; font-style: italic; font-size: 1.1rem; color: #888;">
+<p style="font-family: serif; font-style: italic; font-size: 18px; color: #888;">
   "Exploring the intersection of Vision and Robotics."
 </p>
 
