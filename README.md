@@ -5,7 +5,7 @@
 </a>
 
 <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 18px;">
-  <b>CS Student @ BJTU</b> &nbsp;|&nbsp; <b>Embodied Intelligence & CV Researcher</b>
+  <b>CS Student @ BJTU</b> &nbsp;|&nbsp; <b>Embodied Intelligence & CV Learner</b>
 </p>
 
 <br>
