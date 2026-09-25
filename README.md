@@ -14,7 +14,6 @@
   🔭 <b>Current Focus</b> &nbsp;&mdash;&nbsp; Researching <b>Computer Vision</b> & <b>Embodied AI</b> <br>
   🌱 <b>AI Learner</b> &nbsp;&mdash;&nbsp; Humble & curious, continuously absorbing knowledge. <br>
   👯 <b>Collaborate</b> &nbsp;&mdash;&nbsp; <b>HOI</b>, <b>3D/4D Vision</b>, and Embodied Agents <br>
-  🎓 <b>Academic Goal</b> &nbsp;&mdash;&nbsp; Pursuing an <b>MS/PhD</b> starting <b>Fall 2027</b>
 </p>
 
 <br>
